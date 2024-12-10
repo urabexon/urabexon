@@ -49,7 +49,7 @@
     <a href="https://aws.amazon.com/jp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/AWS.svg" alt="aws" width="40" height="40"/></a>
   </p>
   <p>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Urabexon&theme=tokyonight" alt="urabexon" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Urabexon&theme=tokyonight" alt="Urabexon" /></a>
   </p>
 </div>
 <!--
