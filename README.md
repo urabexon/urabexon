@@ -15,9 +15,9 @@
   </p>
   <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urabexon&theme=tokyonight" width="810px">
-    [![hurabe's 42 stats](https://badge.mediaplus.ma/binary/hurabe)](https://github.com/oakoudad/badge42)
   </p>
 </div>
+[![hurabe's 42 stats](https://badge.mediaplus.ma/binary/hurabe)](https://github.com/oakoudad/badge42)
 <!--
 **urabexon/urabexon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
