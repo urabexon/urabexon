@@ -1,4 +1,4 @@
-# 🙌Introduction 🙌
+# Introduction 🙌
 42tokyo(24/04~)<br>
 42Tokyoにてエンジニアリングの基礎を学んでいます。<br>
 学校のカリキュラムとして、C/C++を中心に学んでいます。<br>
