@@ -9,9 +9,12 @@
 
 ## About me 🌌
 <div align="center">
-  <p align="left"> 
+  <p> 
     <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urabexon&layout=compact&show_icons=true&theme=tokyonight" />
     <img alt="github stats" height="195px" src="https://github-readme-stats.vercel.app/api?username=urabexon&theme=tokyonight&show_icons=ture" />
+  </p>
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urabexon&theme=tokyonight" width="810px">
   </p>
 </div>
 <!--
