@@ -8,9 +8,7 @@
 ## Experience 💻
 
 ## 42 School 💻
-<div align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/hurabe" alt="hurabe's 42 stats" /></a>
-</div>
+[![hurabe's 42 stats](https://badge.mediaplus.ma/binary/hurabe)](https://github.com/oakoudad/badge42)
 
 ## About me 🌌
 <div align="center">
