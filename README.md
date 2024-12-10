@@ -15,6 +15,7 @@
   </p>
   <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urabexon&theme=tokyonight" width="810px">
+    [![hurabe's 42 stats](https://badge.mediaplus.ma/binary/hurabe)](https://github.com/oakoudad/badge42)
   </p>
 </div>
 <!--
