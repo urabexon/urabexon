@@ -8,7 +8,7 @@
 ## Experience 💻
 
 ## 42 School 💻
-[![hurabe's 42 stats](https://badge.mediaplus.ma/binary/hurabe)](https://github.com/oakoudad/badge42)
+[![hurabe's 42 stats](https://badge.mediaplus.ma/darkblue/hurabe)](https://github.com/oakoudad/badge42)
 
 ## About me 🌌
 <div align="center">
