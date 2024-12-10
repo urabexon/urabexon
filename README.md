@@ -24,14 +24,14 @@
 - pipeの再実装 (C)
 - マルチスレッドやミューテックスを使用した並行処理を行うプログラム (C)
 - Bashの再実装 (C、現在実装中)
-etc ...
+<p>etc ...</p>
 
 ### My Project
 - 正規表現エンジンを使用してファイル内の一致する内容を検索するプログラム (C)
 - 抽象構文木を使用した小規模プログラム用コンパイラ (C++)
 - 「北朝鮮のミサイル発射」に関するニュースを検知し、Slackに通知を送るプログラム (JavaScript+AWS Lamda+AWS CloudWatch連携)
 - 形態素解析エンジンMeCabを使用して、入力した短歌の音数をカウントするRubyライブラリ (Ruby)
-etc ...
+<p>etc ...</p>
 
 ### Others
 - Atcoder8級 / 茶色 [https://atcoder.jp/users/urabex](https://atcoder.jp/users/urabex)
