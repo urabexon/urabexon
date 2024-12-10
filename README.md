@@ -4,14 +4,14 @@
   </p>
 </div>
 
-# Introduction 🙌
+# 🙌Introduction...
 42tokyo(24/04~)<br>
 42Tokyoにてエンジニアリングの基礎を学んでいます。<br>
 学校のカリキュラムとして、C/C++を中心に学んでいます。<br>
 応用として、Web、Cloudについての学習も行っています。<br>
 いずれは学習した知識と技術を生かして世の中に貢献できる頑張ります。<br>
 
-## Experience 💻
+## 💻Experience...
 
 ### 42School Common Core
 - 標準Cライブラリの再実装(C)
@@ -20,10 +20,10 @@
 ### My Project
 - Ruby
 
-## 42 School Profile 🪐
+## 🪐42School Profile...
 [![hurabe's 42 stats](https://badge.mediaplus.ma/darkblue/hurabe)](https://github.com/oakoudad/badge42)
 
-## About me 💫
+## 💫About me...
 <div align="left">
   <p> 
     <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urabexon&layout=compact&show_icons=true&theme=tokyonight" />
@@ -34,7 +34,7 @@
   </p>
 </div>
 
-## Languages and Tool 🌟
+## 🌟Languages and Tool...
 <div align="left">
   <p>
     <a href="https://tldp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/icons/Linux.svg" alt="linux" width="40" height="40"/></a>  
