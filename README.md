@@ -7,7 +7,14 @@
 
 ## Experience 💻
 
-## 42 School 💻
+### 42School Common Core
+- 標準Cライブラリの再実装(C)
+- 標準Cライブラリのprintf関数の再実装 (C)
+
+### My Project
+- Ruby
+
+## 42 School Profile 💻
 [![hurabe's 42 stats](https://badge.mediaplus.ma/darkblue/hurabe)](https://github.com/oakoudad/badge42)
 
 ## About me 🌌
@@ -20,6 +27,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urabexon&theme=tokyonight" width="810px">
   </p>
 </div>
+
+## Languages and Tool
+
 <!--
 **urabexon/urabexon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
