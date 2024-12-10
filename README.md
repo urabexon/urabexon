@@ -29,7 +29,7 @@
 </div>
 
 ## Languages and Tool 🌟
-<div align="left">https://html.spec.whatwg.org/
+<div align="left">
   <p>
     <a href="https://tldp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/Linux.svg" alt="linux" width="40" height="40"/></a>  
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/Git.svg" alt="git" width="40" height="40"/></a> 
@@ -49,20 +49,6 @@
     <a href="https://aws.amazon.com/jp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/AWS.svg" alt="aws" width="40" height="40"/></a>
   </p>
   <p>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Urabexon&theme=tokyonight" alt="Urabexon" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=urabexon&theme=tokyonight" alt="GitHub Streak" /></a>
   </p>
 </div>
-<!--
-**urabexon/urabexon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
