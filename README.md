@@ -16,9 +16,25 @@
 ### 42School Common Core
 - 標準Cライブラリの再実装(C)
 - 標準Cライブラリのprintf関数の再実装 (C)
+- ファイルから1行読み込んで文字列として返す関数の実装 (C)
+- 仮想マシンを使用してのLinuxサーバー構築 (VM)
+- スタックを使用して数列を並び替えるアルゴリズムを実装するプログラム作成 (C)
+- ライブラリを使用してフラクタル(マンデルブロ集合とジュリア集合)を描画するプログラム (C)
+- clientとserverでシグナル通信を行うプログラム (C)
+- pipeの再実装 (C)
+- マルチスレッドやミューテックスを使用した並行処理を行うプログラム (C)
+- Bashの再実装 (C、現在実装中)
+etc ...
 
 ### My Project
-- Ruby
+- 正規表現エンジンを使用してファイル内の一致する内容を検索するプログラム (C)
+- 抽象構文木を使用した小規模プログラム用コンパイラ (C++)
+- 「北朝鮮のミサイル発射」に関するニュースを検知し、Slackに通知を送るプログラム (JavaScript+AWS Lamda+AWS CloudWatch連携)
+- 形態素解析エンジンMeCabを使用して、入力した短歌の音数をカウントするRubyライブラリ (Ruby)
+etc ...
+
+### Others
+- Atcoder8級 / 茶色 [https://atcoder.jp/users/urabex](https://atcoder.jp/users/urabex)
 
 ## 🪐42School Profile...
 [![hurabe's 42 stats](https://badge.mediaplus.ma/darkblue/hurabe)](https://github.com/oakoudad/badge42)
