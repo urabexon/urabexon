@@ -35,7 +35,7 @@
 <p>etc ...</p>
 
 ### Others
-- Atcoder7級 / 茶色 [https://atcoder.jp/users/urabex](https://atcoder.jp/users/urabex)
+- Atcoder6級 / 茶色〜入緑 [https://atcoder.jp/users/urabex](https://atcoder.jp/users/urabex)
 
 ## 🪐42School Profile...
 [![hurabe's 42 stats](https://badge.mediaplus.ma/darkblue/hurabe)](https://github.com/oakoudad/badge42)
