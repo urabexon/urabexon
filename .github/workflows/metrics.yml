@@ -1,0 +1,20 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 * * * *"}]  # 毎時更新
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_anilist: yes
+          plugin_anilist_user: urabexon
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites,watching,genres
+          plugin_anilist_limit: 5
