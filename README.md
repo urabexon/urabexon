@@ -1,6 +1,6 @@
 <div>
   <p>
-    <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/anivj.gif" alt="header" width="100%"  >
+    <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/vj_design-art2.gif" alt="header" align="center" width="100%" height="200" >
   </p>
 </div>
 
