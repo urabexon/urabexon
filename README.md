@@ -7,6 +7,7 @@
 
 <!-- ========== Main Content ========== -->
 
+<!-- ========== Section 1 ========== -->
 ## Introduction 🙌
 <div align="center">
   <div align="left" width="37%">
@@ -32,6 +33,7 @@
   </ul>
 </div>
 
+<!-- ========== Section 2 ========== -->
 ## Experience 💻
 
 ### 42School Project 🪐
@@ -51,8 +53,23 @@
 ### Others
 - Atcoder 6th grade / [https://atcoder.jp/users/urabexon](https://atcoder.jp/users/urabexon)
 
-
+<!-- ========== Section 3 ========== -->
 ## My Favorites and Interests 😎
+
+### VJ & Creative Coding ✨
+
+### Subculture 💕
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./github-metrics.svg" alt="Anilist Metrics" width="100%">
+    </td>
+    <td width="50%" align="center">
+      ![Metrics](./github-metrics.svg)
+    </td>
+  </tr>
+</table>
+
 
 ![Metrics](./github-metrics.svg)
 
@@ -108,6 +125,3 @@
     <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/urabexon-contribution.svg" >
   </p>
 </div>
-
-![Metrics](./github-metrics.svg)
-
