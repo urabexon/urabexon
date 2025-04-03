@@ -62,10 +62,10 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="./github-metrics.svg" alt="Anilist Metrics" width="100%">
+      <img src="./anilist-metrics.svg" alt="Anilist Metrics" width="100%">
     </td>
     <td width="50%" align="center">
-      ![Metrics](./github-metrics.svg)
+      <img src="./spotify-metrics.svg" alt="Spotify Metrics" width="100%">
     </td>
   </tr>
 </table>
