@@ -7,7 +7,20 @@
 
 <!-- ========== Main Content ========== -->
 
-# 🙌Introduction...
+## Introduction 🙌
+<div align="center">
+  <div align="left" width="57%">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=00FFFF&multiline=true&width=435&height=200&lines=I%60m+Urabexon%F0%9F%AA%AC;ZEN+University+%2F+42+Student%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Cyberpunk+Culture+enthusiast%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;Love+Golang+and+C%2B%2B%F0%9F%98%8D" alt="Typing SVG" />
+    </a>
+  </div>
+  <div align="right" width="37%">
+    [![hurabe's 42 stats](https://badge.mediaplus.ma/darkblue/hurabe)](https://github.com/oakoudad/badge42)
+  </div>
+</div>
+
+
+
 42tokyo(24/04~)<br>
 42Tokyoにてエンジニアリングの基礎を学んでいます。<br>
 学校のカリキュラムとして、C/C++を中心に学んでいます。<br>
