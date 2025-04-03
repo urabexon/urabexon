@@ -78,3 +78,5 @@
     <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/urabexon-contribution.svg" >
   </p>
 </div>
+
+![Metrics](./github-metrics.svg)
