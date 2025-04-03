@@ -71,11 +71,6 @@
 </table>
 
 
-![Metrics](./github-metrics.svg)
-
-
-
-
 
 
 
