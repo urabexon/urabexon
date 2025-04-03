@@ -78,11 +78,7 @@
   </tr>
 </table>
 
-
-
-
-
-
+## Statistical Data 📊
 <div align="left">
   <p> 
     <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urabexon&layout=compact&show_icons=true&theme=tokyonight" />
@@ -93,7 +89,7 @@
   </p>
 </div>
 
-## 🌟Languages and Tool...
+## Languages and Tool 🌟
 <div align="left">
   <p>
     <a href="https://tldp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/icons/Linux.svg" alt="linux" width="40" height="40"/></a>  
