@@ -18,7 +18,7 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites,characters
           plugin_anilist_limit: 3
-          plugin_anilist_limit_characters: 20
+          plugin_anilist_limit_characters: 22
           plugin_anilist_shuffle: yes
 
   anilist-manga:
@@ -34,5 +34,5 @@ jobs:
           plugin_anilist_medias: manga
           plugin_anilist_sections: reading
           plugin_anilist_limit: 3
-          plugin_anilist_limit_characters: 20
+          plugin_anilist_limit_characters: 22
           plugin_anilist_shuffle: yes
