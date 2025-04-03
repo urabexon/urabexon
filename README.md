@@ -64,7 +64,7 @@
 -  [https://github.com/urabexon/p5js_GenerativeArtCollection-Urabexon](https://github.com/urabexon/p5js_GenerativeArtCollection-Urabexon)
 -  [https://github.com/urabexon/p5js_WebGL-miniart](https://github.com/urabexon/p5js_WebGL-miniart)
 
-#### VJ 🎥
+#### VJ Art 🎥
 <table align="center" border="0" width="100%">
   <tr>    
     <td width="50%" align="center">
