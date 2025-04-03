@@ -59,6 +59,13 @@
 
 ### VJ & Creative Coding ✨
 
+#### Generative Art 🎨
+- [https://github.com/urabexon/p5js_Sol-LeWittStyleArtTool](https://github.com/urabexon/p5js_Sol-LeWittStyleArtTool)
+-  [https://github.com/urabexon/p5js_GenerativeArtCollection-Urabexon](https://github.com/urabexon/p5js_GenerativeArtCollection-Urabexon)
+-  [https://github.com/urabexon/p5js_WebGL-miniart](https://github.com/urabexon/p5js_WebGL-miniart)
+
+#### VJ 🎥
+
 ### Subculture 💕
 <table align="center" border="0" width="100%">
   <tr>
