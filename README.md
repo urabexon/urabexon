@@ -2,7 +2,7 @@
 
 <!-- ========== Header ========== -->
 <div align="center">
-  <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/vj_design-art2.gif" alt="header" align="center" width="100%" height="360" >
+  <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/vj_design-art2.gif" alt="header" align="center" width="100%" height="350" >
 </div>
 
 <!-- ========== Main Content ========== -->
