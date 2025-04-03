@@ -1,7 +1,7 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 * * * *"}]  # 毎時更新
+  schedule: [{cron: "0 * * * *"}]
   push: {branches: ["main"]}
 
 jobs:
@@ -16,5 +16,7 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: urabexon
           plugin_anilist_medias: anime
-          plugin_anilist_sections: favorites,watching,genres
-          plugin_anilist_limit: 5
+          plugin_anilist_sections: favorites,characters
+          plugin_anilist_limit: 3 
+          plugin_anilist_limit_characters: 20
+          plugin_anilist_shuffle: yes
