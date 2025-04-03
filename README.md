@@ -9,54 +9,68 @@
 
 ## Introduction 🙌
 <div align="center">
-  <div align="left" width="57%">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=00FFFF&multiline=true&width=435&height=200&lines=I%60m+Urabexon%F0%9F%AA%AC;ZEN+University+%2F+42+Student%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Cyberpunk+Culture+enthusiast%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;Love+Golang+and+C%2B%2B%F0%9F%98%8D" alt="Typing SVG" />
-    </a>
+  <div align="left" width="37%">
   </div>
-  <div align="right" width="37%">
-    [![hurabe's 42 stats](https://badge.mediaplus.ma/darkblue/hurabe)](https://github.com/oakoudad/badge42)
+  <div align="right" width="57%">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=00FFFF&multiline=true&width=435&height=200&lines=I%60m+Urabexon%F0%9F%AA%AC;ZEN+University+%2F+42+Student%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Cyberpunk+Culture+enthusiast%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;Love+Golang+and+C%2B%2B%F0%9F%98%8D" alt="Typing SVG" width="57%"/>
+    </a>
+    <a href="https://github.com/oakoudad/badge42">
+      <img src="https://badge.mediaplus.ma/darkblue/hurabe" alt="42 Stats" width="57%" />
+    </a>
   </div>
 </div>
 
+### Community Membership 🎓
+<div>
+  <ul>
+    <li>42Tokyo(24/04~ CommonCore)</li>
+    <li>ZEN University(25/04~)</li>
+    <li>JAWS-UG(AWS User Group – Japan)</li>
+    <li>Gophers Japan</li>
+    etc...
+  </ul>
+</div>
 
+## Experience 💻
 
-42tokyo(24/04~)<br>
-42Tokyoにてエンジニアリングの基礎を学んでいます。<br>
-学校のカリキュラムとして、C/C++を中心に学んでいます。<br>
-応用として、Web、Cloudについての学習も行っています。<br>
-いずれは学習した知識と技術を生かして世の中に貢献できるよう頑張ります。<br>
-
-## 💻Experience...
-
-### 42School Common Core
-- 標準Cライブラリの再実装(C)
-- 標準Cライブラリのprintf関数の再実装 (C)
-- ファイルから1行読み込んで文字列として返す関数の実装 (C)
-- 仮想マシンを使用してのLinuxサーバー構築 (VM)
-- スタックを使用して数列を並び替えるアルゴリズムを実装するプログラム作成 (C)
-- ライブラリを使用してフラクタル(マンデルブロ集合とジュリア集合)を描画するプログラム (C)
-- clientとserverでシグナル通信を行うプログラム (C)
-- pipeの再実装 (C)
-- マルチスレッドやミューテックスを使用した並行処理を行うプログラム (C)
-- Bashの再実装 (C)
-- ネットワーク構築の基本(TCP/IPアドレス、サブネットマスク、ゲートウェイなど)をゲーム形式で学べる課題(NW)
+### 42School Project 🪐
+- Re-implementation of bash(C) [https://github.com/urabexon/42cursus_Minishell](https://github.com/urabexon/42cursus_Minishell)
+- Simple 3D game engine project using raycasting(C) [https://github.com/urabexon/42cursus_cub3D](https://github.com/urabexon/42cursus_cub3D)
+- IRC Server (Internet Relay Chat) development / implementation
+- Challenges of developing SPA and full stack web applications for competitive gaming applications
 <p>etc ...</p>
 
-### My Project
-- 正規表現エンジンを使用してファイル内の一致する内容を検索するプログラム (C)
-- 抽象構文木を使用した小規模プログラム用コンパイラ (C++)
-- 「北朝鮮のミサイル発射」に関するニュースを検知し、Slackに通知を送るプログラム (JavaScript+AWS Lamda+AWS CloudWatch連携)
-- 形態素解析エンジンMeCabを使用して、入力した短歌の音数をカウントするRubyライブラリ (Ruby)
+### My Project 🌏
+- Development of key-value type cache server in memory (Go)
+- Development of Tech Article Summary API (Go)
+- Development of a real-time chat server in gRPC (Go)
+- Team planning / development of a graphically isomorphic version of the board game “Topolo-Memory” (Currently planning)
 <p>etc ...</p>
 
 ### Others
-- Atcoder6級 / 茶色〜入緑 [https://atcoder.jp/users/urabex](https://atcoder.jp/users/urabexon)
+- Atcoder 6th grade / [https://atcoder.jp/users/urabexon](https://atcoder.jp/users/urabexon)
 
-## 🪐42School Profile...
-[![hurabe's 42 stats](https://badge.mediaplus.ma/darkblue/hurabe)](https://github.com/oakoudad/badge42)
 
-## 💫About me...
+## My Favorites and Interests 😎
+
+![Metrics](./github-metrics.svg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="left">
   <p> 
     <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urabexon&layout=compact&show_icons=true&theme=tokyonight" />
