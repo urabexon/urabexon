@@ -1,8 +1,11 @@
-<div>
-  <p>
-    <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/vj_design-art2.gif" alt="header" align="center" width="100%" height="200" >
-  </p>
+# *Urabexon*
+
+<!-- ========== Header ========== -->
+<div align="center">
+  <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/vj_design-art2.gif" alt="header" align="center" width="100%" height="380" >
 </div>
+
+<!-- ========== Main Content ========== -->
 
 # 🙌Introduction...
 42tokyo(24/04~)<br>
