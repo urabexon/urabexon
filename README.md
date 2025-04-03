@@ -83,7 +83,7 @@
       <img src="./anilist-metrics.svg" alt="Anilist Metrics" width="100%">
     </td>
     <td width="50%" align="center">
-      <img src="./spotify-metrics.svg" alt="Spotify Metrics" width="100%">
+      <img src="./anilist-manga-metrics.svg" alt="Anilist Metrics (Manga)" width="100%">
     </td>
   </tr>
 </table>
