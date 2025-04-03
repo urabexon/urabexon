@@ -65,7 +65,16 @@
 -  [https://github.com/urabexon/p5js_WebGL-miniart](https://github.com/urabexon/p5js_WebGL-miniart)
 
 #### VJ 🎥
-
+<table align="center" border="0" width="100%">
+  <tr>    
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/vj_design-art1.gif" align="center" width="100%">
+    </td>
+    <td width="50%" align="center">
+     <img src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/samplemv02.gif" align="center" width="100%">
+    </td>
+  </tr>
+</table>
 
 ### Subculture 💕
 <table align="center" border="0" width="100%">
@@ -115,9 +124,9 @@
   <p>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=urabexon&theme=tokyonight" alt="GitHub Streak" /></a>
   </p>
-
-  <!-- ========== Footer ========== -->
-  <p>
-    <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/urabexon-contribution.svg" >
-  </p>
 </div>
+  <!-- ========== Footer ========== -->
+<div align="center">
+  <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/urabexon-contribution.svg" width="100%" >
+</div>
+
