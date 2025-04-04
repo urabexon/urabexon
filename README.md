@@ -131,6 +131,6 @@
 
 <!-- ========== Footer ========== -->
 <div align="center">
-  <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/urabexon-contribution.svg" width="100%" >
+  <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/urabexon/output/urabexon-contribution.svg" width="100%" />
 </div>
 
