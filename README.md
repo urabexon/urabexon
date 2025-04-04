@@ -9,19 +9,21 @@
 
 <!-- ========== Section 1 ========== -->
 ## Introduction 🙌
-<div align="center">
-  <div align="left" width="37%">
-    <img align="left" width="37%" src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others file/cyberpunkstreet.png" />
-  </div>
-  <div align="right" width="57%">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=00FFFF&multiline=true&width=435&height=200&lines=I%60m+Urabexon%F0%9F%AA%AC;ZEN+University+%2F+42+Student%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Cyberpunk+Culture+enthusiast%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;Love+Golang+and+C%2B%2B%F0%9F%98%8D" alt="Typing SVG" width="57%"/>
-    </a>
-    <a href="https://github.com/oakoudad/badge42">
-      <img src="https://badge.mediaplus.ma/darkblue/hurabe" alt="42 Stats" width="57%" />
-    </a>
-  </div>
-</div>
+<table align="center" border="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/urabexon/subfiles/main/svgfiles/others%20file/cyberpunkstreet.png" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=00FFFF&multiline=true&width=435&height=200&lines=I%60m+Urabexon%F0%9F%AA%AC;ZEN+University+%2F+42+Student%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Cyberpunk+Culture+enthusiast%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;Love+Golang+and+C%2B%2B%F0%9F%98%8D" alt="Typing SVG" width="100%" />
+      </a><br>
+      <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/darkblue/hurabe" alt="42 Stats" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Community Membership 🎓
 <div>
