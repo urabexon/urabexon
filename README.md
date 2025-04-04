@@ -51,7 +51,7 @@
 - Development of Tech Article Summary API (Go)
 - Development of a real-time chat server in gRPC (Go)
 - Team planning / development of a graphically isomorphic version of the board game “Topolo-Memory” (Currently planning)
-- Team planning / development (in planning) of a web application that can display a map of which influential people ruled which region of Japan by year(Currently planning)
+- Team planning / development of a web application that can display a map of which influential people ruled which region of Japan by year(Currently planning)
 <p>etc ...</p>
 
 ### Others
