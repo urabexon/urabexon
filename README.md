@@ -43,7 +43,7 @@
 - Re-implementation of bash(C) [https://github.com/urabexon/42cursus_Minishell](https://github.com/urabexon/42cursus_Minishell)
 - Simple 3D game engine project using raycasting(C) [https://github.com/urabexon/42cursus_cub3D](https://github.com/urabexon/42cursus_cub3D)
 - HTTP Web Server(C++) development / implementation [https://github.com/urabexon/42cursus_Webserv](https://github.com/urabexon/42cursus_Webserv)
-- IRC Server (Internet Relay Chat) development / implementation
+- IRC Server (Internet Relay Chat) (C++) development / implementation [https://github.com/urabexon/42cursus_ft_irc](https://github.com/urabexon/42cursus_ft_irc)
 - Challenges of developing SPA and full stack web applications for competitive gaming applications
 <p>etc ...</p>
 
