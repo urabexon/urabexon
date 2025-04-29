@@ -30,6 +30,7 @@
   <ul>
     <li>42Tokyo(24/04~ CommonCore)</li>
     <li>ZEN University(25/04~)</li>
+    <li>CIID(Copenhagen Institute of Interaction Design)</li>
     <li>JAWS-UG(AWS User Group – Japan)</li>
     <li>Gophers Japan</li>
     etc...
