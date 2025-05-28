@@ -99,7 +99,7 @@
   </tr>
 </table>
 
-#### Music Playing 🎧
+#### Now Music Playing 🎧
 <p align="left">
   <a href="https://github.com/kiosion/toru">
     <picture>
