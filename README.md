@@ -28,7 +28,7 @@
 ### Community Membership 🎓
 <div>
   <ul>
-    <li>42Tokyo(24/04~ CommonCore)</li>
+    <li>42Tokyo(24/04~)</li>
     <li>ZEN University(25/04~)</li>
     <li>CIID(Copenhagen Institute of Interaction Design)</li>
     <li>JAWS-UG(AWS User Group – Japan)</li>
@@ -40,12 +40,18 @@
 <!-- ========== Section 2 ========== -->
 ## Experience 💻
 
-### 42School Project 🪐
+### 42School Common Core Project 🪐
 - Re-implementation of bash(C) [https://github.com/urabexon/42cursus_Minishell](https://github.com/urabexon/42cursus_Minishell)
 - Simple 3D game engine project using raycasting(C) [https://github.com/urabexon/42cursus_cub3D](https://github.com/urabexon/42cursus_cub3D)
 - HTTP Web Server(C++) development / implementation [https://github.com/urabexon/42cursus_Webserv](https://github.com/urabexon/42cursus_Webserv)
 - IRC Server (Internet Relay Chat) (C++) development / implementation [https://github.com/urabexon/42cursus_ft_irc](https://github.com/urabexon/42cursus_ft_irc)
 - Challenges of developing SPA and full stack web applications for competitive gaming applications
+
+### 42School Advanced Project 🚀
+- Web-based photo editing and sharing platform
+- Dating web app with real-time chat, user recommendations, GPS-based filtering
+- Torrent-powered video streaming platform with user accounts, OAuth, and real-time streaming
+- Mobile-first music collaboration platform with real-time playlist editing and voting
 <p>etc ...</p>
 
 ### My Project 🌏
