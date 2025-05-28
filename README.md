@@ -109,7 +109,7 @@
     </picture>
   </a>
   <br />
-  <em>🎶 Now Playing from Spotify × Last.fm</a></em>
+  <em>🎶 Now Playing from Spotify × Last.fm</em>
 </p>
 
 <!-- ========== Section 4 ========== -->
