@@ -152,11 +152,11 @@
 
 <!-- ========== Section 6 ========== -->
 ## Visitor Counter 🧮
-<p align="center">
+<p align="left">
   <img src="https://count.getloli.com/get/@urabexon?theme=moebooru" alt="Urabexon's Visitor Count" />
 </p>
-<p align="center">
-  <em>Thank you for visiting! 💖</em>
+<p align="left">
+  <em>💖 Thank you for visiting!</em>
 </p>
 
 <!-- ========== Footer ========== -->
