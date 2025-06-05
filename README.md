@@ -160,7 +160,8 @@
 </p>
 
 <!-- ========== Footer ========== -->
-## Commit 🐍
+<!-- ========== Section 7 ========== -->
+## Contribution Log 🐍
 <div align="center">
   <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/urabexon/output/urabexon-contribution.svg" width="100%" />
 </div>
