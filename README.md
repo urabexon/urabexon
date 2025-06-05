@@ -151,12 +151,9 @@
 </div>
 
 <!-- ========== Section 6 ========== -->
-## Visitor Counter ⛏️
-<div align="center">
-  <img src="https://moe-counter.glitch.me/get/@urabexon-dev?theme=minecraft&darkmode=yes" alt="visitor counter" />
-  <br />
-  <em>Thanks for visiting my profile! 🚀</em>
-</div>
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/urabexon-dev&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
+</p>
 
 <!-- ========== Footer ========== -->
 <div align="center">
