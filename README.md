@@ -153,7 +153,7 @@
 <!-- ========== Section 6 ========== -->
 ## Visitor Counter 🧮
 <p align="left">
-  <img src="https://count.getloli.com/get/@urabexon?theme=rule34" alt="Urabexon's Visitor Count"/>
+  <img src="https://count.getloli.com/get/@urabexon?theme=miku" alt="Urabexon's Visitor Count"/>
 </p>
 <p align="left">
   <em>💖 Thank you for visiting!</em>
