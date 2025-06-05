@@ -153,7 +153,7 @@
 <!-- ========== Section 6 ========== -->
 ## Visitor Counter 🧮
 <p align="left">
-  <img src="https://count.getloli.com/get/@urabexon?theme=minecraft" alt="Urabexon's Visitor Count" width="250px" />
+  <img src="https://count.getloli.com/get/@urabexon?theme=minecraft" alt="Urabexon's Visitor Count"/>
 </p>
 <p align="left">
   <em>💖 Thank you for visiting!</em>
