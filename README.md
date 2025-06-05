@@ -150,6 +150,14 @@
   </p>
 </div>
 
+<!-- ========== Section 6 ========== -->
+## Visitor Counter ⛏️
+<div align="center">
+  <img src="https://count.getloli.com/get/@urabexon?theme=minecraft&darkmode=yes" alt="visitor counter" />
+  <br />
+  <em>Thanks for visiting my profile! 🚀</em>
+</div>
+
 <!-- ========== Footer ========== -->
 <div align="center">
   <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/urabexon/output/urabexon-contribution.svg" width="100%" />
