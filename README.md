@@ -153,7 +153,7 @@
 <!-- ========== Section 6 ========== -->
 ## Visitor Counter ⛏️
 <div align="center">
-  <img src="https://moe-counter.glitch.me/get/@urabexon?theme=minecraft&darkmode=yes" alt="visitor counter" />
+  <img src="https://moe-counter.glitch.me/get/@urabexon-dev?theme=minecraft&darkmode=yes" alt="visitor counter" />
   <br />
   <em>Thanks for visiting my profile! 🚀</em>
 </div>
