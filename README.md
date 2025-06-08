@@ -159,6 +159,7 @@
 </p>
 
 <!-- ========== Footer ========== -->
+
 <!-- ========== Section 7 ========== -->
 ## Contribution Log 🐍
 <div align="center">
