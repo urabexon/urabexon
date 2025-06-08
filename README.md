@@ -6,7 +6,6 @@
 </div>
 
 <!-- ========== Main Content ========== -->
-
 <!-- ========== Section 1 ========== -->
 ## Introduction 🙌
 <table align="center" border="0" width="100%">
