@@ -54,6 +54,7 @@
 <p>etc ...</p>
 
 ### My Project 🌏
+- Built a Slack bot to chat with ChatGPT, supporting context and search(Python)
 - Development of key-value type cache server in memory (Go)
 - Development of Tech Article Summary API (Go)
 - Development of a real-time chat server in gRPC (Go)
