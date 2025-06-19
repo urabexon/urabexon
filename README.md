@@ -67,7 +67,6 @@
 
 <!-- ========== Section 3 ========== -->
 ## My Favorites and Interests 😎
-
 ### VJ & Creative Coding ✨
 
 #### Generative Art 🎨
