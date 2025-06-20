@@ -100,6 +100,7 @@
 </table>
 
 #### Now Music Playing 🎧
+<!--
 <p align="left">
   <a href="https://github.com/kiosion/toru">
     <picture>
@@ -110,6 +111,12 @@
   </a>
   <br />
   <em>🎶 Now Playing from Spotify × Last.fm</em>
+</p>
+-->
+<p align="left">
+  <a href="https://discord.com/users/739705036497616997">
+    <img src="https://lanyard.cnrad.dev/api/739705036497616997?theme=dark&animated=true&hideDiscrim=true" alt="Discord Presence" />
+  </a>
 </p>
 
 <!-- ========== Section 4 ========== -->
