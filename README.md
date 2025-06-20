@@ -99,8 +99,8 @@
   </tr>
 </table>
 
-#### Now Music Playing 🎧
 <!--
+#### Now Music Playing 🎧
 <p align="left">
   <a href="https://github.com/kiosion/toru">
     <picture>
@@ -113,7 +113,6 @@
   <em>🎶 Now Playing from Spotify × Last.fm</em>
 </p>
 -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8wlja56ptlyzgu0v7rzr5ck2&theme=default&show_offline=false&background_color=121212&cover_image=true&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- ========== Section 4 ========== -->
 ## Statistical Data 📊
