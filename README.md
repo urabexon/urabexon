@@ -161,7 +161,10 @@
   <em>💖 Thank you for visiting!</em>
 </p>
 
+
+
 <!-- ========== Footer ========== -->
+
 <!-- ========== Section 7 ========== -->
 ## Contribution Log 🐍
 <div align="center">
