@@ -27,8 +27,8 @@
 ### Community Membership 🎓
 <div>
   <ul>
-    <li>42Tokyo(24/04~)</li>
-    <li>ZEN University(25/04~)</li>
+    <li>42Tokyo</li>
+    <li>ZEN University</li>
     <li>CIID(Copenhagen Institute of Interaction Design)</li>
     <li>JAWS-UG(AWS User Group – Japan)</li>
     <li>Gophers Japan</li>
