@@ -62,6 +62,8 @@
 - Team planning / development of a web application that can display a map of which influential people ruled which region of Japan by year(Currently planning)
 <p>etc ...</p>
 
+
+
 ### Others
 - Atcoder 6th grade / [https://atcoder.jp/users/urabexon](https://atcoder.jp/users/urabexon)
 
