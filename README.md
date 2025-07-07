@@ -99,7 +99,6 @@
   </tr>
 </table>
 
-<!--
 #### Now Music Playing 🎧
 <p align="left">
   <a href="https://github.com/kiosion/toru">
@@ -112,7 +111,6 @@
   <br />
   <em>🎶 Now Playing from Spotify × Last.fm</em>
 </p>
--->
 
 <!-- ========== Section 4 ========== -->
 ## Statistical Data 📊
