@@ -30,6 +30,7 @@
     <li>42Tokyo</li>
     <li>ZEN University</li>
     <li>CIID(Copenhagen Institute of Interaction Design)</li>
+    <li>UT-LAB</li>
     <li>JAWS-UG(AWS User Group – Japan)</li>
     <li>Gophers Japan</li>
     etc...
