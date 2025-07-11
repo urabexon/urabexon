@@ -29,6 +29,7 @@
   <ul>
     <li>42Tokyo</li>
     <li>ZEN University</li>
+    <li>ZEN University AI Circle Management</li>
     <li>CIID(Copenhagen Institute of Interaction Design)</li>
     <li>UT-LAB</li>
     <li>JAWS-UG(AWS User Group – Japan)</li>
