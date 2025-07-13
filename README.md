@@ -65,7 +65,7 @@
 <p>etc ...</p>
 
 ### Others
-- Atcoder 6th grade / [https://atcoder.jp/users/urabexon](https://atcoder.jp/users/urabexon)
+- Atcoder 5th grade / [https://atcoder.jp/users/urabexon](https://atcoder.jp/users/urabexon)
 
 <!-- ========== Section 3 ========== -->
 ## My Favorites and Interests 😎
