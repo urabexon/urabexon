@@ -38,6 +38,25 @@
   </ul>
 </div>
 
+### Skills 🔧
+- Frontend
+  - Next.js, React, TypeScript
+  - ESLint, Prettier
+  - Testing
+    - Vitest
+- Backend
+  - Gin, Go(Static Typing / High-Performance & Scalable API Development)
+  - Ruby on Rails, Ruby(Dynamic Typing / Prototyping)
+  - Node.js(Asynchronous Backend Development with TypeScript)
+- CI / CD
+  - GitHub Actions, CircleCI...
+- Infrastructure
+  - AWS and other Cloud services.
+    - EC2, ECR, ECS, Amplify, Fargate, VPC, ALB, S3, RDS, ElastiCache, CloudWatch, Public Subnet, Private Subnet...
+  - Docker
+  - GCP
+etc...
+
 <!-- ========== Section 2 ========== -->
 ## Experience 💻
 
