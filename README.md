@@ -30,7 +30,6 @@
     <li>42Tokyo</li>
     <li>ZEN University</li>
     <li>CIID(Copenhagen Institute of Interaction Design)</li>
-    etc...
   </ul>
 </div>
 
