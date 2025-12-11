@@ -116,10 +116,12 @@ etc...
 </table>
 
 #### Now Music Playing 🎧
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8wjla56ptlylzgu0v7rzr5ck2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true">
+<p align="left">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8wjla56ptlylzgu0v7rzr5ck2&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8wjla56ptlylzgu0v7rzr5ck2&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true">
   </a>
+  <br />
+  <em>🎶 Now Playing from Spotify × Last.fm</em>
 </p>
 <!-- <p align="left">
   <a href="https://github.com/kiosion/toru">
