@@ -116,7 +116,11 @@ etc...
 </table>
 
 #### Now Music Playing 🎧
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=8wjla56ptlylzgu0v7zrz5ck2&width=500)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8wjla56ptlylzgu0v7rzr5ck2&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
 <!-- <p align="left">
   <a href="https://github.com/kiosion/toru">
     <picture>
