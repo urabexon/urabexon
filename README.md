@@ -124,7 +124,7 @@ etc...
       <img alt="Last.fm Activity" src="https://toru.kio.dev/api/v1/urabexon?blur=true&border_width=0&border_radius=16" height="135" />
     </picture>
   </a> -->
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=8wjla56ptlylzgu0v7rzr5ck2&width={width})
+  ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=8wjla56ptlylzgu0v7zrz5ck2&width=500)
   <br />
   <em>🎶 Now Playing from Spotify × Last.fm</em>
 </p>
