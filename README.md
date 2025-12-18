@@ -88,8 +88,8 @@ etc...
 
 #### Generative Art 🎨
 - [https://github.com/urabexon/p5js_Sol-LeWittStyleArtTool](https://github.com/urabexon/p5js_Sol-LeWittStyleArtTool)
--  [https://github.com/urabexon/p5js_GenerativeArtCollection-Urabexon](https://github.com/urabexon/p5js_GenerativeArtCollection-Urabexon)
--  [https://github.com/urabexon/p5js_WebGL-miniart](https://github.com/urabexon/p5js_WebGL-miniart)
+- [https://github.com/urabexon/p5js_GenerativeArtCollection-Urabexon](https://github.com/urabexon/p5js_GenerativeArtCollection-Urabexon)
+- [https://github.com/urabexon/p5js_WebGL-miniart](https://github.com/urabexon/p5js_WebGL-miniart)
 
 #### VJ Art 🎥
 <table align="center" border="0" width="100%">
