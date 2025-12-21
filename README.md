@@ -49,6 +49,9 @@
     - EC2, ECR, ECS, Amplify, Fargate, VPC, ALB, S3, RDS, ElastiCache, CloudWatch, Public Subnet, Private Subnet...
   - Docker
   - GCP
+- Low Layer Systems
+- C / C++
+- Assembly
 etc...
 
 <!-- ========== Section 2 ========== -->
@@ -187,9 +190,3 @@ etc...
 <div align="center">
   <img alt="urabexon-contribution" src="https://raw.githubusercontent.com/urabexon/urabexon/output/urabexon-contribution.svg" width="100%" />
 </div>
-
-
-
-
-
-
