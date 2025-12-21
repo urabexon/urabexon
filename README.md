@@ -50,8 +50,8 @@
   - Docker
   - GCP
 - Low Layer Systems
-- C / C++
-- Assembly
+  - C / C++
+  - Assembly
 etc...
 
 <!-- ========== Section 2 ========== -->
