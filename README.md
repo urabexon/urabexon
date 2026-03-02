@@ -126,17 +126,6 @@ etc...
   <br />
   <em>🎶 Now Playing from Spotify × Last.fm</em>
 </p>
-<!-- <p align="left">
-  <a href="https://github.com/kiosion/toru">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://toru.kio.dev/api/v1/urabexon?blur=true&border_width=0&border_radius=16&theme=nord" />
-      <source media="(prefers-color-scheme: light)" srcset="https://toru.kio.dev/api/v1/urabexon?blur=true&border_width=0&border_radius=16&theme=light" />
-      <img alt="Last.fm Activity" src="https://toru.kio.dev/api/v1/urabexon?blur=true&border_width=0&border_radius=16" height="135" />
-    </picture>
-  </a>
-  <br />
-  <em>🎶 Now Playing from Spotify × Last.fm</em>
-</p> -->
 
 <!-- ========== Section 4 ========== -->
 ## Statistical Data 📊
