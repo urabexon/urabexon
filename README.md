@@ -66,7 +66,6 @@ etc...
 - Challenges of developing SPA and full stack web applications for competitive gaming applications
 
 ### 42School Advanced Project 🚀
-- Dating web app with real-time chat, user recommendations, GPS-based filtering
 - Torrent-powered video streaming platform with user accounts, OAuth, and real-time streaming
 - Mobile-first music collaboration platform with real-time playlist editing and voting
 <p>etc ...</p>
